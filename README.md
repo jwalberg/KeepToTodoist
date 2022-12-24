@@ -1,5 +1,5 @@
 # KeepToTodoist
-Copy Google Keep notes to Todoist to manage Google Home making life difficult for Todoist users
+Copy Google Keep notes to Todoist to manage Google Home making life difficult for Todoist users. AFter copying a note to Todoist, it will archive the note in Keep.
 
 ## Setup
 If you're using two factor authentication with your Google account(as you should), this won't work, so you'll need to set up an App password here: https://myaccount.google.com/apppasswords
